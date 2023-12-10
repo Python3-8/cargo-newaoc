@@ -4,8 +4,10 @@ fn solve(input: &str) -> usize {
 
 #[cfg(test)]
 mod tests {
+    use super::solve;
+
     #[test]
-    fn example() {
+    fn example1() {
         let input = "\
 ";
         assert_eq!(solve(input), todo!());

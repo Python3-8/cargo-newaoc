@@ -1,6 +1,6 @@
 [package]
 name = "cargo-newaoc"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Pranav Balaji Pooruli"]
 edition = "2021"
 description = "A program that facilitates creating Rust projects for Advent of Code solutions"

@@ -1,0 +1,15 @@
+[package]
+name = "cargo-newaoc"
+version = "0.1.0"
+authors = ["Pranav Balaji Pooruli"]
+edition = "2021"
+description = "A program that facilitates creating Rust projects for Advent of Code solutions"
+license = "MIT"
+repository = "https://github.com/Python3-8/cargo-newaoc"
+keywords = ["adventofcode", "aoc", "cargo"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = { version = "4.4.7", features = ["derive"] }
+
